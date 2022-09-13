@@ -14,5 +14,11 @@ public class YourInitials {
 /* Screen Dump
 
 
+      A         H    H
+     A A        H    H 
+    AAAAA       HHHHHH 
+   A     A      H    H 
+  A       A  .  H    H
+
 
 */
