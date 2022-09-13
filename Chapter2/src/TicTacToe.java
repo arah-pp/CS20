@@ -12,10 +12,13 @@ public class TicTacToe {
 	
        System.out.println("       |     |"); //Displaying text
        System.out.println("       |     |"); //Displaying text
-       System.out.println("  -----------------"); //Displaying text
        System.out.println("       |     |"); //Displaying text
+       System.out.println("---------------------"); //Displaying text
        System.out.println("       |     |"); //Displaying text
-       System.out.println("  -----------------"); //Displaying text
+       System.out.println("       |  X  |"); //Displaying text
+       System.out.println("       |     |"); //Displaying text
+       System.out.println("---------------------"); //Displaying text
+       System.out.println("       |     |"); //Displaying text
        System.out.println("       |     |"); //Displaying text
        System.out.println("       |     |"); //Displaying text
 		
@@ -26,10 +29,13 @@ public class TicTacToe {
 
        |     |
        |     |
-  -----------------
        |     |
+---------------------
        |     |
-  -----------------
+       |  X  |
+       |     |
+---------------------
+       |     |
        |     |
        |     |
 
