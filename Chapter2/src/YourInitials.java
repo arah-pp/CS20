@@ -1,4 +1,10 @@
-
+/*
+Program: ${MyInitials}.java          Date: ${9/13/22}
+Author: Ashton Hirdle
+School: CHHS
+Course: Computer Science 20
+ 
+*/
 public class YourInitials {
 
 	public static void main(String[] args) 
