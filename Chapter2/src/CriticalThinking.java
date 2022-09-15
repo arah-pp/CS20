@@ -10,15 +10,16 @@ public class CriticalThinking
 	public static void main(String[] args)
 	{
 		/*
-		3. 
+		3. TestCalculator.java   Date: 9/14/22
+		   Ashton Hirdle       
 		
-		4. 
+		4. Calculates and displays average
 		
-		5. 
+		5. Package gradeCalculator
 		
-		6. 
+		6. Public Class AverageScore 
 		
-		7. 
+		7.           
 		
 		12. 
 		*/
